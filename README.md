@@ -115,3 +115,7 @@ The README for the [original Compton project](https://github.com/chjj/compton/) 
 
 picom is free software, made available under the [MIT](LICENSES/MIT) and [MPL-2.0](LICENSES/MPL-2.0) software
 licenses. See the individual source files for details.
+
+## Additional Credits
+
+Repo based on a picom fork created by [Fabien Devaux](https://github.com/fdev31). Go check his work!
